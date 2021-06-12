@@ -14,3 +14,5 @@ We ran our analyses on the R-JMICC and Werker data sets. See the following paper
 Mazuka, Reiko, Yosuke Igarashi, and Ken'ya Nishikawa. "Input for learning Japanese: RIKEN Japanese mother-infant conversation corpus." 電子情報通信学会技術研究報告. TL, 思考と言語 106.165 (2006): 11-15.
 
 Werker, J. F., Pons, F., Dietrich, C., Kajikawa, S., Fais, L., & Amano, S. (2007). Infant-directed speech supports phonetic category learning in English and Japanese. Cognition, 103(1), 147-162.
+
+Please do not hesitate to reach out with any questions!
