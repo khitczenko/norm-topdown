@@ -15,4 +15,4 @@ Mazuka, Reiko, Yosuke Igarashi, and Ken'ya Nishikawa. "Input for learning Japane
 
 Werker, J. F., Pons, F., Dietrich, C., Kajikawa, S., Fais, L., & Amano, S. (2007). Infant-directed speech supports phonetic category learning in English and Japanese. Cognition, 103(1), 147-162.
 
-Please do not hesitate to reach out with any questions!
+Please do not hesitate to reach out to Kasia Hitczenko with any questions!
