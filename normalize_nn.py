@@ -113,6 +113,9 @@ def train(X,Y,L,X_eval,Y_eval,input_size,output_size,learning_rate,n_epochs,weig
 ################################### Cross Validating ###################################
 ####################################################################################
 
+# The format of the input txt file is as follows:
+# length,duration,f1,f2,f3,contextualfactor_1,...,contextualfactor_n
+
 # Choose which data to use
 # train_data_file = 'train_pos.txt'
 # test_data_file = 'test_pos.txt'
